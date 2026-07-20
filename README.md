@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Shravann-2011/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shravann-2011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shravann-2011/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
