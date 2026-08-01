@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shravann-2011/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shravann-2011/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shravann-2011/LeetCode/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shravann-2011/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shravann-2011/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shravann-2011/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shravann-2011/LeetCode/tree/master/0148-sort-list) |
+| [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shravann-2011/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Merge Sort
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shravann-2011/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shravann-2011/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Shravann-2011/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Shravann-2011/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shravann-2011/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shravann-2011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shravann-2011/LeetCode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shravann-2011/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
