@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shravann-2011/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shravann-2011/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shravann-2011/LeetCode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/Shravann-2011/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shravann-2011/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shravann-2011/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shravann-2011/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Shravann-2011/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Shravann-2011/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shravann-2011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shravann-2011/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shravann-2011/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
