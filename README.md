@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shravann-2011/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shravann-2011/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shravann-2011/LeetCode/tree/master/0283-move-zeroes) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shravann-2011/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shravann-2011/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shravann-2011/LeetCode/tree/master/0148-sort-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Merge Sort
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Shravann-2011/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shravann-2011/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shravann-2011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shravann-2011/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Shravann-2011/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shravann-2011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
 |  |
 | ------- |
