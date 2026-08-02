@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shravann-2011/LeetCode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Shravann-2011/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Shravann-2011/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shravann-2011/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shravann-2011/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shravann-2011/LeetCode/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Shravann-2011/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shravann-2011/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Merge Sort
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Shravann-2011/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Shravann-2011/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Shravann-2011/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shravann-2011/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shravann-2011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
