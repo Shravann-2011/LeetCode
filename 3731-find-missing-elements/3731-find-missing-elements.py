@@ -9,7 +9,7 @@ class Solution(object):
         left = min(nums_set)
         right = max(nums_set)
         for i in range(left,right):
-            if i not in nums:
+            if i not in nums_set:
                 list.append(i)
         return list
 
