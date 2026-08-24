@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shravann-2011/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shravann-2011/LeetCode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Shravann-2011/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/Shravann-2011/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Shravann-2011/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shravann-2011/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shravann-2011/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0647-palindromic-substrings](https://github.com/Shravann-2011/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shravann-2011/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Shravann-2011/LeetCode/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/Shravann-2011/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Shravann-2011/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Pigeonhole Principle
 |  |
