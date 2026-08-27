@@ -4,36 +4,37 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
+
         nums.sort()
-        res = []
+
         n = len(nums)
+        answer= []
 
-        for i in range(0,n-2):
-            if i > 0 and nums[i] == nums[i-1]: 
+        for i in range(n):
+            if nums[i] > 0:
+                break
+            elif i > 0 and nums[i] == nums[i-1]:
                 continue
+            
+            low , high = i+1 , n-1
 
-            j = i+1
-            k = n -1
-            while j < k:
-                sum = nums[i]+ nums[j]+nums[k]
+            while low < high:
+                summ = nums[i]+ nums[low]+ nums[high]
 
-                if sum == 0:
-                    res.append([nums[i],nums[j],nums[k]])
-                    while j < k and nums[j] == nums[j+1]:
-                        j+=1
-                    while j < k and nums[k] == nums[k-1]:
-                        k-=1
-                
-                    j+=1
-                    k-=1
+                if summ == 0:
+                    answer.append([nums[i],nums[low],nums[high]])
+                    low+=1
+                    high-=1
 
-                elif sum > 0:
-                    k-=1
+                    while low < high and nums[low] == nums[low-1]:
+                        low+=1
+                    while low < high and nums[high] == nums[high+1]:
+                        high-=1
+
+                elif summ < 0:
+                    low+=1
                 else:
-                    j+=1
-        return res
-
-
-                
-
+                    high-=1
         
+        return answer
+
