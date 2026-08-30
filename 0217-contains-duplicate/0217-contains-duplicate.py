@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         seen = set()
+
         for num in nums:
             if num in seen:
                 return True
