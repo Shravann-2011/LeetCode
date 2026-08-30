@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shravann-2011/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shravann-2011/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shravann-2011/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shravann-2011/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shravann-2011/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shravann-2011/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shravann-2011/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shravann-2011/LeetCode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shravann-2011/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shravann-2011/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shravann-2011/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Shravann-2011/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shravann-2011/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shravann-2011/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shravann-2011/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shravann-2011/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shravann-2011/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shravann-2011/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Shravann-2011/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shravann-2011/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shravann-2011/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shravann-2011/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shravann-2011/LeetCode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shravann-2011/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Queue
 |  |
@@ -195,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shravann-2011/LeetCode/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shravann-2011/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
