@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Shravann-2011/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Shravann-2011/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Shravann-2011/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Shravann-2011/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Shravann-2011/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shravann-2011/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shravann-2011/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shravann-2011/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Shravann-2011/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shravann-2011/LeetCode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Shravann-2011/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Shravann-2011/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Shravann-2011/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shravann-2011/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Shravann-2011/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
