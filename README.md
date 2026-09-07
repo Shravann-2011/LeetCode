@@ -188,10 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shravann-2011/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shravann-2011/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Shravann-2011/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0829-consecutive-numbers-sum](https://github.com/Shravann-2011/LeetCode/tree/master/0829-consecutive-numbers-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shravann-2011/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/Shravann-2011/LeetCode/tree/master/0829-consecutive-numbers-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shravann-2011/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
