@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shravann-2011/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shravann-2011/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shravann-2011/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Shravann-2011/LeetCode/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shravann-2011/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shravann-2011/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Shravann-2011/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shravann-2011/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shravann-2011/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Shravann-2011/LeetCode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Shravann-2011/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -220,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shravann-2011/LeetCode/tree/master/0844-backspace-string-compare) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shravann-2011/LeetCode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shravann-2011/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shravann-2011/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
