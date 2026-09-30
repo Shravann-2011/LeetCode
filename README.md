@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shravann-2011/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shravann-2011/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shravann-2011/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shravann-2011/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shravann-2011/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shravann-2011/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shravann-2011/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shravann-2011/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shravann-2011/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Shravann-2011/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Shravann-2011/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shravann-2011/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
